@@ -43,7 +43,7 @@ git clone https://github.com/Kritika2964/UTC_2_IST.git
 cd UTC_2_IST
 
 ### Install the required dependencies:
-pip install -r C
+pip install -r requirements.txt
 
 ### Tesseract Setup:
 
