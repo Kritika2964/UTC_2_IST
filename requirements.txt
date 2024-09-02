@@ -1,0 +1,7 @@
+pytesseract 
+numpy 
+opencv-python 
+imageio 
+python-dateutil 
+pandas 
+ftplib
